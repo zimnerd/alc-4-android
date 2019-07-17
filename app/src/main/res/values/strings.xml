@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="welcome">Welcome To ALC 4.0</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="profile_name">Edwin Nyagano</string>
+    <string name="my_name">Edwin Nyagano</string>
+    <string name="track_android">Track: Android</string>
+    <string name="country_south_africa">Country: South Africa</string>
+    <string name="email_eddienyagano_gmail_com">Email: eddienyagano@gmail.com</string>
+    <string name="phone_number_27_603115583">Phone Number: +27 603115583</string>
+    <string name="slack_username_zimnerd">Slack Username: ZimNerd</string>
+</resources>
